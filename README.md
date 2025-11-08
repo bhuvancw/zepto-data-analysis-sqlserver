@@ -1,5 +1,3 @@
-# zepto-data-analysis-sqlserver
-
 Project Title
 
 Zepto Inventory Data Analysis using SQL Server
